@@ -1,0 +1,73 @@
+body {
+    font-family: Poppins, sans-serif;
+    font-size: 15px;
+    background-color: hsl(0, 0%, 98%);
+    color: hsl(234, 12%, 34%);
+}
+
+#reliable {
+    font-weight: 200;
+}
+
+header p, .card p {
+    color: hsl(229, 6%, 66%);
+    font-weight: 400;
+}
+
+header {
+    width: 35%;
+    text-align: center;
+    margin: 0px auto 0px auto;
+}
+
+.cards {
+    border: solid;
+}
+
+
+.card {
+    width: 300px;
+    height: 200px;
+    padding: 30px;
+    box-shadow: 0px 0px 10px;
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#supervisor {
+    box-shadow: 0px -3px hsl(180, 62%, 55%);
+    margin: auto 0px auto 0px;
+    float: left;
+}
+
+#team {
+    box-shadow: 0px -3px hsl(0, 78%, 62%);
+    margin: auto auto 20px auto;
+}
+
+#karma {
+    box-shadow: 0px -3px hsl(34, 97%, 64%);
+    margin: 20px auto auto auto;
+}
+
+#calculator {
+    box-shadow: 0px -3px hsl(212, 86%, 64%);
+    margin: auto 0px auto 0px;
+    float: right;
+}
+
+.icons {
+    text-align: right;
+}
+
+
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+     color: hsl(228, 45%, 44%);
+}
