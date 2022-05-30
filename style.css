@@ -55,7 +55,7 @@ header {
 #supervisor {
     border-top-color: hsl(180, 62%, 55%);
     left: 190px;
-    bottom: 110px;
+    bottom: 120px;
 }
 
 #team {
@@ -66,13 +66,13 @@ header {
 #karma {
     border-top-color: hsl(34, 97%, 64%);
     margin: 20px auto auto auto;
-    bottom: 470px;
+    bottom: 485px;
 }
 
 #calculator {
     border-top-color: hsl(212, 86%, 64%);
     left: 905px;
-    bottom: 330px;
+    bottom: 350px;
 }
 
 .icons {
